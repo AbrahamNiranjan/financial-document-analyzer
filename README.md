@@ -2,7 +2,7 @@
 AI-powered Financial Document Analyzer built with CrewAI and FastAPI. Uses agentic frameworks to process PDF reports through specialized agents (Analyst, Verifier, Advisor, Risk Assessor) and generate structured insights on investments, risks, and overall financial analysis.
 
 
-````markdown
+
 # Financial Document Analyzer
 
 ## Project Overview
@@ -15,7 +15,7 @@ It accepts a PDF financial report, processes it through multiple agents (Analyst
 ```sh
 git clone https://github.com/AbrahamNiranjan/financial-document-analyzer.git
 cd financial-doc-analyzer
-````
+
 
 ### 2. Create a Virtual Environment (Recommended)
 
@@ -124,7 +124,7 @@ curl -X POST "http://127.0.0.1:8000/analyze" \
 
 ## Contact Details
 
-**Name:** Shaun Thomas
+**Name:** Abraham Niranjan Isaac
 **Email:** [abrahamisaac74692@gmail.com](mailto:abrahamisaac74692@gmail.com)
 **GitHub:** [https://github.com/AbrahamNiranjan](https://github.com/AbrahamNiranjan)
 
