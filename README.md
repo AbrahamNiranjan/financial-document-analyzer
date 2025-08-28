@@ -124,9 +124,9 @@ curl -X POST "http://127.0.0.1:8000/analyze" \
 
 ## Contact Details
 
-**Name:** Abraham Niranjan Isaac
-**Email:** [abrahamisaac74692@gmail.com](mailto:abrahamisaac74692@gmail.com)
-**GitHub:** [https://github.com/AbrahamNiranjan](https://github.com/AbrahamNiranjan)
+* **Name:** Abraham Niranjan Isaac
+* **Email:** [abrahamisaac74692@gmail.com](mailto:abrahamisaac74692@gmail.com)
+* **GitHub:** [https://github.com/AbrahamNiranjan](https://github.com/AbrahamNiranjan)
 
 
 ---
