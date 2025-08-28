@@ -15,7 +15,7 @@ It accepts a PDF financial report, processes it through multiple agents (Analyst
 ```sh
 git clone https://github.com/AbrahamNiranjan/financial-document-analyzer.git
 cd financial-doc-analyzer
-
+```
 
 ### 2. Create a Virtual Environment (Recommended)
 
@@ -128,6 +128,5 @@ curl -X POST "http://127.0.0.1:8000/analyze" \
 **Email:** [abrahamisaac74692@gmail.com](mailto:abrahamisaac74692@gmail.com)
 **GitHub:** [https://github.com/AbrahamNiranjan](https://github.com/AbrahamNiranjan)
 
-```
 
 ---
